@@ -1,0 +1,47 @@
+date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
+9/30/2020,ARKG,"INVITAE CORP",NVTA,46185L103,6298765.00,273051462.75,11.85
+9/30/2020,ARKG,"CRISPR THERAPEUTICS AG",CRSP,H17182108,2221554.00,185810776.56,8.06
+9/30/2020,ARKG,"PACIFIC BIOSCIENCES OF CALIF",PACB,69404D108,13186093.00,130146737.91,5.65
+9/30/2020,ARKG,"TWIST BIOSCIENCE CORP",TWST,90184D100,1432387.00,108818440.39,4.72
+9/30/2020,ARKG,"ARCTURUS THERAPEUTICS HOLDIN","ARCT UQ",03969T109,2532507.00,108644550.30,4.71
+9/30/2020,ARKG,"COMPUGEN LTD",CGEN,M25722105,6177420.00,100383075.00,4.36
+9/30/2020,ARKG,"SERES THERAPEUTICS INC",MCRB,81750R102,2999398.00,84912957.38,3.68
+9/30/2020,ARKG,"IOVANCE BIOTHERAPEUTICS INC",IOVA,462260100,2437718.00,80249676.56,3.48
+9/30/2020,ARKG,"TELADOC HEALTH INC",TDOC,87918A105,343039.00,75207870.36,3.26
+9/30/2020,ARKG,"PERSONALIS INC",PSNL,71535D106,3341526.00,72410868.42,3.14
+9/30/2020,ARKG,"CAREDX INC",CDNA,14167L103,1886546.00,71575555.24,3.11
+9/30/2020,ARKG,"CELLECTIS - ADR",CLLS,15117K103,3743205.00,69249292.50,3.01
+9/30/2020,ARKG,"ILLUMINA INC",ILMN,452327109,220149.00,68043652.92,2.95
+9/30/2020,ARKG,"PURE STORAGE INC - CLASS A",PSTG,74624M102,3782730.00,58216214.70,2.53
+9/30/2020,ARKG,"FATE THERAPEUTICS INC",FATE,31189P102,1461123.00,58401086.31,2.53
+9/30/2020,ARKG,"EDITAS MEDICINE INC",EDIT,28106W103,2033669.00,57064752.14,2.48
+9/30/2020,ARKG,"EXACT SCIENCES CORP",EXAS,30063P105,536995.00,54746640.25,2.38
+9/30/2020,ARKG,"INCYTE CORP",INCY,45337C102,587860.00,52754556.40,2.29
+9/30/2020,ARKG,"CERUS CORP",CERS,157085101,8217565.00,51441956.90,2.23
+9/30/2020,ARKG,"VERACYTE INC",VCYT,92337F107,1525579.00,49566061.71,2.15
+9/30/2020,ARKG,"INTELLIA THERAPEUTICS INC",NTLA,45826J105,2418252.00,48074849.76,2.09
+9/30/2020,ARKG,"ADAPTIVE BIOTECHNOLOGIES",ADPT,00650F109,897723.00,43656269.49,1.89
+9/30/2020,ARKG,"SYROS PHARMACEUTICALS INC",SYRS,87184Q107,3802683.00,33615717.72,1.46
+9/30/2020,ARKG,"NANOSTRING TECHNOLOGIES INC",NSTG,63009R109,697321.00,31170248.70,1.35
+9/30/2020,ARKG,"10X GENOMICS INC-CLASS A",TXG,88025U109,234487.00,29235839.16,1.27
+9/30/2020,ARKG,"VERTEX PHARMACEUTICALS INC",VRTX,92532F100,98778.00,26879469.36,1.17
+9/30/2020,ARKG,"GUARDANT HEALTH INC",GH,40131M109,237456.00,26542831.68,1.15
+9/30/2020,ARKG,"SCHRODINGER INC",SDGR,80810D103,524657.00,24926454.07,1.08
+9/30/2020,ARKG,"IONIS PHARMACEUTICALS INC",IONS,462222100,509945.00,24196890.25,1.05
+9/30/2020,ARKG,"ACCOLADE INC",ACCD,00437E102,602348.00,23413266.76,1.02
+9/30/2020,ARKG,"CASTLE BIOSCIENCES INC",CSTL,14843C105,454301.00,23373786.45,1.01
+9/30/2020,ARKG,"XILINX INC",XLNX,983919101,215001.00,22411704.24,0.97
+9/30/2020,ARKG,"TAKEDA PHARMACEUTIC-SP ADR","TAK UN",874060205,1173283.00,20931368.72,0.91
+9/30/2020,ARKG,"EVOGENE LTD",EVGN,M4119S104,4618845.00,18290626.20,0.79
+9/30/2020,ARKG,"PLURISTEM THERAPEUTICS INC",PSTI,72940R300,1674316.00,17630547.48,0.77
+9/30/2020,ARKG,"AQUABOUNTY TECHNOLOGIES",AQB,03842K200,3920136.00,17562209.28,0.76
+9/30/2020,ARKG,"CODEXIS INC",CDXS,192005106,1433028.00,16823748.72,0.73
+9/30/2020,ARKG,"PHREESIA INC",PHR,71944F106,520563.00,16725689.19,0.73
+9/30/2020,ARKG,"MORGAN STANLEY GOVT INSTL 8035",,X9USDMORS,14154649.06,14154649.06,0.61
+9/30/2020,ARKG,"BERKELEY LIGHTS INC",BLI,084310101,87608.00,6689746.88,0.29
+9/30/2020,ARKG,"SURFACE ONCOLOGY INC",SURF,86877M209,461076.00,3181424.40,0.14
+9/30/2020,ARKG,"ORGANOVO HOLDINGS INC","ONVO ",68620A203,377092.00,2982797.72,0.13
+9/30/2020,ARKG,"CELLULAR BIOMEDICINE GROUP I",CBMG,15117P102,62550.00,1147167.00,0.05
+,,,,,,,
+,,,,,,,
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2020, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,
