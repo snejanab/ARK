@@ -1,0 +1,54 @@
+date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
+9/8/2020,ARKW,"TESLA INC",TSLA,88160R101,578811.00,191129180.31,8.68
+9/8/2020,ARKW,"ROKU INC",ROKU,77543R102,892074.00,145077994.62,6.59
+9/8/2020,ARKW,"SQUARE INC - A",SQ,852234103,948384.00,131929698.24,5.99
+9/8/2020,ARKW,"HUYA INC-ADR",HUYA,44852D108,2687932.00,70396939.08,3.20
+9/8/2020,ARKW,"2U INC",TWOU,90214J101,1911304.00,68768717.92,3.12
+9/8/2020,ARKW,"FACEBOOK INC-CLASS A",FB,30303M102,250840.00,68017774.40,3.09
+9/8/2020,ARKW,"ZILLOW GROUP INC - C",Z,98954M200,827771.00,66768008.86,3.03
+9/8/2020,ARKW,"LENDINGTREE INC","TREE UW",52603B107,212292.00,62679213.00,2.85
+9/8/2020,ARKW,"XILINX INC",XLNX,983919101,621189.00,60683953.41,2.76
+9/8/2020,ARKW,"SEA LTD-ADR",SE,81141R100,439644.00,60670872.00,2.76
+9/8/2020,ARKW,"SPOTIFY TECHNOLOGY SA",SPOT,L8681T102,249690.00,59930593.80,2.72
+9/8/2020,ARKW,"SNAP INC - A",SNAP,83304A106,2641875.00,59944143.75,2.72
+9/8/2020,ARKW,"PINTEREST INC- CLASS A",PINS,72352L106,1737081.00,59112866.43,2.69
+9/8/2020,ARKW,"PURE STORAGE INC - CLASS A",PSTG,74624M102,3740750.00,53866800.00,2.45
+9/8/2020,ARKW,"TENCENT HOLDINGS LTD-UNS ADR",TCEHY,88032Q109,815437.00,52791391.38,2.40
+9/8/2020,ARKW,"PAGERDUTY INC",PD,69553P100,2154096.00,51289025.76,2.33
+9/8/2020,ARKW,"TELADOC HEALTH INC",TDOC,87918A105,261526.00,50435289.10,2.29
+9/8/2020,ARKW,"AMAZON.COM INC",AMZN,023135106,14551.00,45833321.84,2.08
+9/8/2020,ARKW,"SLACK TECHNOLOGIES INC- CL A",WORK,83088V102,1482515.00,43467339.80,1.98
+9/8/2020,ARKW,"SPLUNK INC",SPLK,848637104,224384.00,43057045.76,1.96
+9/8/2020,ARKW,"GRAYSCALE BITCOIN TRUST BTC",GBTC,389637109,3880968.00,43117942.58,1.96
+9/8/2020,ARKW,"TWILIO INC - A",TWLO,90138F102,190303.00,43038926.48,1.96
+9/8/2020,ARKW,"NETFLIX INC",NFLX,64110L106,81625.00,41385507.50,1.88
+9/8/2020,ARKW,"ALIBABA GROUP HOLDING-SP ADR",BABA,01609W102,150856.00,40734137.12,1.85
+9/8/2020,ARKW,"VERACYTE INC",VCYT,92337F107,1329189.00,40806102.30,1.85
+9/8/2020,ARKW,"MERCADOLIBRE INC",MELI,58733R102,37633.00,38480871.49,1.75
+9/8/2020,ARKW,"ALTERYX INC - CLASS A",AYX,02156B103,286529.00,31572630.51,1.43
+9/8/2020,ARKW,"CROWDSTRIKE HOLDINGS INC - A",CRWD,22788C105,233937.00,29389505.31,1.34
+9/8/2020,ARKW,"TRADE DESK INC/THE -CLASS A",TTD,88339J105,65466.00,27501611.94,1.25
+9/8/2020,ARKW,"HUBSPOT INC",HUBS,443573100,99820.00,27421552.20,1.25
+9/8/2020,ARKW,"TAIWAN SEMICONDUCTOR-SP ADR",TSM,874039100,335833.00,25966607.56,1.18
+9/8/2020,ARKW,"NINTENDO CO LTD-UNSPONS ADR",NTDOY,654445303,374025.00,24969909.00,1.13
+9/8/2020,ARKW,"LENDINGCLUB CORP",LC,52603A208,4832608.00,24452996.48,1.11
+9/8/2020,ARKW,"ZSCALER INC",ZS,98980G102,176204.00,23465086.68,1.07
+9/8/2020,ARKW,"JD.COM INC-ADR",JD,47215P106,305612.00,23293746.64,1.06
+9/8/2020,ARKW,"NVIDIA CORP",NVDA,67066G104,48489.00,23105978.28,1.05
+9/8/2020,ARKW,"ADOBE INC",ADBE,00724F101,50050.00,23129606.50,1.05
+9/8/2020,ARKW,"SALESFORCE.COM INC",CRM,79466L302,94983.00,22916548.41,1.04
+9/8/2020,ARKW,"ATLASSIAN CORP PLC-CLASS A",TEAM,G06242104,135218.00,22841024.56,1.04
+9/8/2020,ARKW,"DOCUSIGN INC",DOCU,256163106,109946.00,22608195.98,1.03
+9/8/2020,ARKW,"OKTA INC",OKTA,679295105,112745.00,22225421.85,1.01
+9/8/2020,ARKW,"SYNOPSYS INC",SNPS,871607107,112255.00,22337622.45,1.01
+9/8/2020,ARKW,"TWITTER INC",TWTR,90184L102,578323.00,22086155.37,1.00
+9/8/2020,ARKW,"INTERCONTINENTAL EXCHANGE IN",ICE,45866F104,220912.00,21830523.84,0.99
+9/8/2020,ARKW,"PAYPAL HOLDINGS INC",PYPL,70450Y103,116424.00,21649042.80,0.98
+9/8/2020,ARKW,"ADYEN NV-UNSPON ADR",ADYEY,00783V104,695372.00,21535670.84,0.98
+9/8/2020,ARKW,"WIX.COM LTD",WIX,M98068105,40767.00,10182781.26,0.46
+9/8/2020,ARKW,"MORGAN STANLEY GOVT INSTL 8035",,X9USDMORS,4666499.69,4666499.69,0.21
+9/8/2020,ARKW,"VMWARE INC-CLASS A",VMW,928563402,32466.00,4366027.68,0.20
+9/8/2020,ARKW,"APPLE INC",AAPL,037833100,34588.00,3902218.16,0.18
+,,,,,,,
+,,,,,,,
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2020, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,
