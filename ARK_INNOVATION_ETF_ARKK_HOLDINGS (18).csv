@@ -1,0 +1,47 @@
+date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
+8/14/2020,ARKK,"TESLA INC",TSLA,88160R101,422242.00,696999091.82,10.11
+8/14/2020,ARKK,"INVITAE CORP",NVTA,46185L103,15931703.00,478269724.06,6.94
+8/14/2020,ARKK,"SQUARE INC - A",SQ,852234103,3178431.00,451210064.76,6.55
+8/14/2020,ARKK,"CRISPR THERAPEUTICS AG",CRSP,H17182108,4359597.00,390183931.50,5.66
+8/14/2020,ARKK,"ROKU INC",ROKU,77543R102,2261594.00,332115078.90,4.82
+8/14/2020,ARKK,"PROTO LABS INC",PRLB,743713109,2004908.00,264788199.56,3.84
+8/14/2020,ARKK,"2U INC",TWOU,90214J101,6560846.00,247999978.80,3.60
+8/14/2020,ARKK,"ILLUMINA INC",ILMN,452327109,690915.00,240134417.40,3.48
+8/14/2020,ARKK,"ZILLOW GROUP INC - C",Z,98954M200,2877273.00,220514202.72,3.20
+8/14/2020,ARKK,"LENDINGTREE INC","TREE UW",52603B107,678183.00,213017280.30,3.09
+8/14/2020,ARKK,"SERES THERAPEUTICS INC",MCRB,81750R102,7776734.00,211993768.84,3.08
+8/14/2020,ARKK,"EDITAS MEDICINE INC",EDIT,28106W103,6087211.00,212565408.12,3.08
+8/14/2020,ARKK,"SLACK TECHNOLOGIES INC- CL A",WORK,83088V102,6975548.00,197826541.28,2.87
+8/14/2020,ARKK,"COMPUGEN LTD",CGEN,M25722105,10519822.00,180940938.40,2.63
+8/14/2020,ARKK,"TELADOC HEALTH INC",TDOC,87918A105,774599.00,145237312.50,2.11
+8/14/2020,ARKK,"PURE STORAGE INC - CLASS A",PSTG,74624M102,9039836.00,144275782.56,2.09
+8/14/2020,ARKK,"INTELLIA THERAPEUTICS INC",NTLA,45826J105,6965670.00,138547176.30,2.01
+8/14/2020,ARKK,"XILINX INC",XLNX,983919101,1250755.00,131717009.05,1.91
+8/14/2020,ARKK,"TERADYNE INC",TER,880770102,1383284.00,124578557.04,1.81
+8/14/2020,ARKK,"IOVANCE BIOTHERAPEUTICS INC",IOVA,462260100,4201342.00,116755294.18,1.69
+8/14/2020,ARKK,"CERUS CORP",CERS,157085101,16470761.00,115130619.39,1.67
+8/14/2020,ARKK,"PAGERDUTY INC",PD,69553P100,3931587.00,114723708.66,1.66
+8/14/2020,ARKK,"STRATASYS LTD",SSYS,M85548101,7616477.00,114247155.00,1.66
+8/14/2020,ARKK,"PINTEREST INC- CLASS A",PINS,72352L106,3253264.00,112823195.52,1.64
+8/14/2020,ARKK,"VERACYTE INC",VCYT,92337F107,3332792.00,112615041.68,1.63
+8/14/2020,ARKK,"SPLUNK INC",SPLK,848637104,584437.00,112410612.58,1.63
+8/14/2020,ARKK,"MATERIALISE NV-ADR",MTLS,57667T100,4292912.00,111529853.76,1.62
+8/14/2020,ARKK,"NANOSTRING TECHNOLOGIES INC",NSTG,63009R109,3014531.00,110542851.77,1.60
+8/14/2020,ARKK,"SPOTIFY TECHNOLOGY SA",SPOT,L8681T102,432035.00,108579036.20,1.58
+8/14/2020,ARKK,"HUYA INC-ADR",HUYA,44852D108,3553066.00,85699951.92,1.24
+8/14/2020,ARKK,"TWILIO INC - A",TWLO,90138F102,344292.00,82650737.52,1.20
+8/14/2020,ARKK,"IRIDIUM COMMUNICATIONS INC",IRDM,46269C102,2872494.00,82383127.92,1.20
+8/14/2020,ARKK,"TAIWAN SEMICONDUCTOR-SP ADR",TSM,874039100,1044015.00,81861216.15,1.19
+8/14/2020,ARKK,"FACEBOOK INC-CLASS A",FB,30303M102,281788.00,73614297.12,1.07
+8/14/2020,ARKK,"TWIST BIOSCIENCE CORP",TWST,90184D100,1098565.00,72834859.50,1.06
+8/14/2020,ARKK,"SYROS PHARMACEUTICALS INC",SYRS,87184Q107,5882034.00,70055024.94,1.02
+8/14/2020,ARKK,"ZSCALER INC",ZS,98980G102,558989.00,68694158.21,1.00
+8/14/2020,ARKK,"AUTODESK INC",ADSK,052769106,163621.00,38344581.35,0.56
+8/14/2020,ARKK,"DOCUSIGN INC",DOCU,256163106,164372.00,32826732.12,0.48
+8/14/2020,ARKK,"EXONE CO/THE",XONE,302104104,2218273.00,22271460.92,0.32
+8/14/2020,ARKK,"MORGAN STANLEY GOVT INSTL 8035",,X9USDMORS,16608303.16,16608303.16,0.24
+8/14/2020,ARKK,"ORGANOVO HOLDINGS INC",ONVO,68620A104,16924153.00,11938297.53,0.17
+8/14/2020,ARKK,"SNAP INC - A",SNAP,83304A106,37281.00,808624.89,0.01
+,,,,,,,
+,,,,,,,
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2020, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,
